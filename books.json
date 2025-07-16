@@ -1,0 +1,19 @@
+{
+  "books": [
+    {
+      "title": "O Pequeno Príncipe",
+      "author": "Antoine de Saint-Exupéry",
+      "description": "Uma fábula sobre amor, amizade e a essência da vida."
+    },
+    {
+      "title": "Dom Casmurro",
+      "author": "Machado de Assis",
+      "description": "Um clássico da literatura brasileira, com questionamentos sobre ciúme e verdade."
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "description": "Um romance distópico sobre vigilância e opressão estatal."
+    }
+  ]
+}
